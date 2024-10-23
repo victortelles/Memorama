@@ -30,22 +30,22 @@ El objetivo del juego es **resolver el tablero en el menor tiempo posible** y co
 
 ## 🛠️ Cómo ejecutar el proyecto
 1. Clona este repositorio:  
-   '''
+   ```bash
    git clone https://github.com/victortelles/Memorama.git
    cd Memorama
-   '''
+   ```
 2. Instala las dependencias:  
-   '''
+   ```bash
    npm install
-   '''
+   ```
 3. Ejecuta el proyecto:  
-   '''
+   ```bash
    ng start
-   '''
+   ```
 4. Abre tu navegador y ve a:  
-   '''
+   ```bash
    http://localhost:4200
-   '''
+   ```
 
 *Demo*:
 ¡Disfruta jugando a Memorama! 😊
