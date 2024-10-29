@@ -21,6 +21,6 @@ export class ConfettiService {
       colors: ['#FF4500', '#008080', '#FFD700'],
     });
 
-    setTimeout(() => confetti.reset(), duration);
+    //setTimeout(() => confetti.reset(), duration);
   }
 }
